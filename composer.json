@@ -1,0 +1,27 @@
+{
+    "name": "techroute/laravelpackagedev",
+    "description": "This is my first package development",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "khayrulhasan",
+            "email": "khayrul.web@gmail.com"
+        }
+    ],
+    "require": {
+        "erusev/parsedown": "^1.7"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^4.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "techroute\\laravelpackagedev\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "techroute\\laravelpackagedev\\Tests\\": "tests/"
+        }
+    }
+}

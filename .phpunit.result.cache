@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":331:{a:2:{s:7:"defects";a:1:{s:57:"techroute\laravelpackagedev\Tests\MarkDownTest::testFirst";i:4;}s:5:"times";a:3:{s:56:"techroute\laravelPackageDev\Tests\InitialTest::testFirst";d:0.044;s:57:"techroute\laravelPackageDev\Taests\InitialTest::testFirst";d:0.041;s:57:"techroute\laravelpackagedev\Tests\MarkDownTest::testFirst";d:0.146;}}}
